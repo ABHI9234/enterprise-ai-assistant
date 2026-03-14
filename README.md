@@ -91,3 +91,4 @@ CHUNK_SIZE=512
 CHUNK_OVERLAP=64
 TOP_K_RESULTS=5
 ```
+# Enterprise AI Knowledge Assistant
