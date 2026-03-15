@@ -19,7 +19,7 @@ class FAISSVectorStore:
         self.index: Optional[faiss.Index] = None
         self.metadata: List[dict] = []
         self.texts: List[str] = []
-        self.dimension: int = 768
+        self.dimension: int = 384
         self.index_path = Path(settings.faiss_index_path)
         self.index_path.mkdir(parents=True, exist_ok=True)
 
