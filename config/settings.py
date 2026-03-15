@@ -7,7 +7,7 @@ class Settings(BaseSettings):
     groq_model: str = "llama-3.1-8b-instant"
 
     # Embedding
-    embedding_model: str = "BAAI/bge-base-en-v1.5"
+    embedding_model: str = "all-MiniLM-L6-v2"
 
     # Storage paths
     faiss_index_path: str = "data/faiss_index"
