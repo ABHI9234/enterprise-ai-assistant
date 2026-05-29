@@ -1,4 +1,5 @@
-# Enterprise AI Knowledge Assistant
+`
+# Enterprise AI Knowledge Assistant(https://abhi9234-enterprise-ai-assistant.hf.space)
 
 A production-grade RAG (Retrieval Augmented Generation) system that lets users upload internal company documents and ask questions in natural language.
 
@@ -90,5 +91,4 @@ EMBEDDING_MODEL=BAAI/bge-base-en-v1.5
 CHUNK_SIZE=512
 CHUNK_OVERLAP=64
 TOP_K_RESULTS=5
-```
-# Enterprise AI Knowledge Assistant(https://abhi9234-enterprise-ai-assistant.hf.space)
+``
